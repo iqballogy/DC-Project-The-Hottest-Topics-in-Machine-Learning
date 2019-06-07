@@ -1,4 +1,4 @@
-### DC-Project-The-Hottest-Topics-in-Machine-Learning
+### DataCamp Project- The Hottest Topics in Machine Learning
 The NIPS conference (Neural Information Processing Systems) is one of the most prestigious yearly events in the machine learning community.
 At each NIPS conference, a large number of research papers are published. 
 Over 50,000 PDF files were automatically downloaded and processed to obtain a dataset on various machine learning techniques. 
